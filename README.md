@@ -3,6 +3,9 @@
 
 Este projeto foi desenvolvido como parte das atividades acadêmicas da disciplina de Processamento de Imagens. O objetivo é criar uma aplicação que detecta rostos em imagens utilizando técnicas de processamento de imagem e visão computacional.
 
+## Nota Final
+> Nota: 9.8/10.0
+
 ## Funcionalidades
 
 - Interface gráfica intuitiva para seleção de imagens
